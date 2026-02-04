@@ -1,6 +1,6 @@
 # Wine Quality Analysis & Classification
 
-This project analyzes the **WineQT dataset** to explore physicochemical properties of wines and builds a machine learning pipeline to classify wine quality. The notebook moves from data exploration and visualization to binary classification (Good vs. Bad wine) using deep learning techniques.
+This project analyzes the **WineQT dataset** to explore physicochemical properties of wines and builds a machine learning pipeline to classify wine quality. The notebook moves from data exploration and visualization to binary classification (Good vs. Bad wine) using ML & deep learning techniques.
 
 ## Project Overview
 The goal of this project is to understand the factors contributing to wine quality and predict whether a wine is considered "good" or "bad" based on its chemical features.
